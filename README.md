@@ -10,16 +10,19 @@ To contact fellow scientists working on image and video analysis, you can join o
 - [Projects](#projects)
   - [Identification](#identification)
   - [Image Annotation](#image-annotation)
-  - [Video Annotation)(#video-annotation)
+  - [Video Annotation](#video-annotation)
   
 ## Identification
   
 ## Image Annotation
 
-- [BenthoBox](https://benthobox.com)
-- [Biigle](https://www.biigle.de/)
-- [Squidle+](http://squidle.org/)
-- [Viame](http://www.viametoolkit.org/)
+| Name | Free | Open Source |
+| -- | -- | --|
+| [BenthoBox](https://benthobox.com) | ✅ | ❌ |
+| [Biigle](https://www.biigle.de/) | ✅ | ❌ |
+| [SeqGIS](https://www.seagis.com.au/) | ❌ | ❌ |
+| [Squidle+](http://squidle.org/) | ✅ | ❌ |
+| [Viame](http://www.viametoolkit.org/) | ✅ | ✅  |
 
 ## Video Annotation
 
