@@ -31,6 +31,7 @@ To contact fellow scientists working on image and video analysis, you can join o
 | [Deep Sea Spy](https://www.deepseaspy.com) | ❌ | ❌ |
 | [Labelbox](https://labelbox.com/) | ❌ | ❌ |
 | [labelme](https://github.com/wkentaro/labelme) | ✅ | ✅ |
+| [OFOP](http://www.ofop-by-sams.eu/) | ✅ | ❌ |
 | [RectLabel](https://rectlabel.com/) | ❌ | ❌ |
 | [SeaGIS](https://www.seagis.com.au/) | ❌ | ❌ |
 | [Sebastes](https://repository.library.noaa.gov/view/noaa/11999/noaa_11999_DS1.pdf?) | ✅ | ✅ |
