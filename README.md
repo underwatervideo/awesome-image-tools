@@ -40,6 +40,7 @@ To contact fellow scientists working on image and video analysis, you can join o
 | [Squidle+](http://squidle.org/) | ✅ | ❌ |
 | [Supervisely](https://supervise.ly/) | ❌ | ❌ |
 | [Viame](http://www.viametoolkit.org/) | ✅ | ✅ |
+| [VoTT](https://github.com/Microsoft/VoTT) | ✅ | ✅ |
 
 
 ## Miscellaneous
