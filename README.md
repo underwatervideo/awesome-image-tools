@@ -15,7 +15,9 @@ To contact fellow scientists working on image and video analysis, you can join o
   
 ## Identification
 
+- [Encyclopedia of Life](https://eol.org/)
 - [MBARI Deep-Sea Guide](http://dsg.mbari.org)
+- [Tree of Life](http://tolweb.org)
 - [World Register of Marine Species (WoRMS)](http://www.marinespecies.org/)
 
   
