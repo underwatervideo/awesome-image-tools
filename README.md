@@ -3,7 +3,7 @@ A community driven list of useful tools for marine image and video analysis.
 
 ## Slack
 
-To contact fellow scientists working on image and video analysis, you can join our community at <https://marineimaging.slack.com/>. Send a request to @hohonuuli for an invitation.
+To contact fellow scientists working on image and video analysis, you can join our community at <https://marineimaging.slack.com/>. Send a request to _brian at mbari dot org_ for an invitation.
 
 ## Table of Contents
 
