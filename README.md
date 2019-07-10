@@ -11,6 +11,7 @@ To contact fellow scientists working on image and video analysis, you can join o
   - [Identification](#identification)
   - [Image Annotation](#image-annotation)
   - [Miscellaneous](#miscellaneous)
+  - [Training Sets](#training-sets)
   - [Video Annotation](#video-annotation)
   
 ## Identification
@@ -52,6 +53,12 @@ To contact fellow scientists working on image and video analysis, you can join o
 | [Matisse](https://www.eso.org/sci/facilities/develop/instruments/matisse.html) | ❌ | ❌ |
 | [OpenCV](https://opencv.org/) | ✅ | ✅ |
 | [Sharktopda](https://github.com/mbari-media-management/Sharktopoda) | ✅ | ✅ |
+
+
+## Training Sets
+
+- FathomNet (coming soon) 
+- [Fishnet.AI](https://www.fishnet.ai/])
 
 
 ## Video Annotation
