@@ -27,6 +27,7 @@ To contact fellow scientists working on image and video analysis, you can join o
 | [Biigle](https://www.biigle.de/) | ✅ | ❌ |
 | [Coral Point Count with Excel extensions](https://cnso.nova.edu/cpce/index.html) | ✅ | ❌ |
 | [CoralNet](https://coralnet.ucsd.edu/) | ✅ | ❌ |
+| [cvat](https://github.com/opencv/cvat) | ✅ | ✅ |
 | [Deep Sea Spy](https://www.deepseaspy.com) | ❌ | ❌ |
 | [Labelbox](https://labelbox.com/) | ❌ | ❌ |
 | [labelme](https://github.com/wkentaro/labelme) | ✅ | ✅ |
