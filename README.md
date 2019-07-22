@@ -38,7 +38,7 @@ To contact fellow scientists working on image and video analysis, you can join o
 | [RectLabel](https://rectlabel.com/) | ❌ | ❌ |
 | [SeaGIS](https://www.seagis.com.au/) | ❌ | ❌ |
 | [Sebastes](https://repository.library.noaa.gov/view/noaa/11999/noaa_11999_DS1.pdf?) | ✅ | ✅ |
-| [Squidle+](http://squidle.org/) | ✅ | ❌ |
+| [Squidle+](http://squidle.org/) | ✅ | ✅ |
 | [Supervisely](https://supervise.ly/) | ❌ | ❌ |
 | [Viame](http://www.viametoolkit.org/) | ✅ | ✅ |
 | [VoTT](https://github.com/Microsoft/VoTT) | ✅ | ✅ |
