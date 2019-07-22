@@ -13,7 +13,7 @@ To contact fellow scientists working on image and video analysis, you can join o
   - [Miscellaneous](#miscellaneous)
   - [Training Sets](#training-sets)
   - [Video Annotation](#video-annotation)
-  
+
 ## Identification
 
 - [Encyclopedia of Life](https://eol.org/)
@@ -24,35 +24,35 @@ To contact fellow scientists working on image and video analysis, you can join o
   
 ## Image Annotation
 
-| Name | Free | Open Source |
-| -- | -- | --|
-| [BenthoBox](https://benthobox.com) | ✅ | ❌ |
-| [Biigle](https://www.biigle.de/) | ✅ | ❌ |
-| [Coral Point Count with Excel extensions](https://cnso.nova.edu/cpce/index.html) | ✅ | ❌ |
-| [CoralNet](https://coralnet.ucsd.edu/) | ✅ | ❌ |
-| [cvat](https://github.com/opencv/cvat) | ✅ | ✅ |
-| [Deep Sea Spy](https://www.deepseaspy.com) | ❌ | ❌ |
-| [Labelbox](https://labelbox.com/) | ❌ | ❌ |
-| [labelme](https://github.com/wkentaro/labelme) | ✅ | ✅ |
-| [OFOP](http://www.ofop-by-sams.eu/) | ✅ | ❌ |
-| [RectLabel](https://rectlabel.com/) | ❌ | ❌ |
-| [SeaGIS](https://www.seagis.com.au/) | ❌ | ❌ |
-| [Sebastes](https://repository.library.noaa.gov/view/noaa/11999/noaa_11999_DS1.pdf?) | ✅ | ✅ |
-| [Squidle+](http://squidle.org/) | ✅ | ✅ |
-| [Supervisely](https://supervise.ly/) | ❌ | ❌ |
-| [Viame](http://www.viametoolkit.org/) | ✅ | ✅ |
+| Name | Free | Open Source | Notes |
+| -- | -- | -- | -- |
+| [BenthoBox](https://benthobox.com) | ✅ | ❌ | |
+| [Biigle](https://www.biigle.de/) | ✅ | ❌ | |
+| [Coral Point Count with Excel extensions](https://cnso.nova.edu/cpce/index.html) | ✅ | ❌ | |
+| [CoralNet](https://coralnet.ucsd.edu/) | ✅ | ❌ | |
+| [cvat](https://github.com/opencv/cvat) | ✅ | ✅ | |
+| [Deep Sea Spy](https://www.deepseaspy.com) | ❌ | ❌ | |
+| [Labelbox](https://labelbox.com/) | ❌ | ❌ | |
+| [labelme](https://github.com/wkentaro/labelme) | ✅ | ✅ | |
+| [OFOP](http://www.ofop-by-sams.eu/) | ✅ | ❌ | |
+| [RectLabel](https://rectlabel.com/) | ❌ | ❌ | |
+| [SeaGIS](https://www.seagis.com.au/) | ❌ | ❌ | |
+| [Sebastes](https://repository.library.noaa.gov/view/noaa/11999/noaa_11999_DS1.pdf?) | ✅ | ✅ | |
+| [Squidle+](http://squidle.org/) | ✅ | ✅ | [Source Code](https://bitbucket.org/ariell/marinedb) |
+| [Supervisely](https://supervise.ly/) | ❌ | ❌ | |
+| [Viame](http://www.viametoolkit.org/) | ✅ | ✅ | |
 | [VoTT](https://github.com/Microsoft/VoTT) | ✅ | ✅ |
 
 
 ## Miscellaneous
 
-| Name | Free | Open Source |
-| -- | -- | --|
-| [3D Metrics](https://3d-metrics.com/) | ❌ | ❌ |
-| [iNaturalist](https://www.inaturalist.org/) | ✅ | ❌ |
-| [Matisse](https://www.eso.org/sci/facilities/develop/instruments/matisse.html) | ❌ | ❌ |
-| [OpenCV](https://opencv.org/) | ✅ | ✅ |
-| [Sharktopda](https://github.com/mbari-media-management/Sharktopoda) | ✅ | ✅ |
+| Name | Free | Open Source | Notes |
+| -- | -- | -- | -- |
+| [3D Metrics](https://3d-metrics.com/) | ❌ | ❌ | |
+| [iNaturalist](https://www.inaturalist.org/) | ✅ | ❌ | |
+| [Matisse](https://www.eso.org/sci/facilities/develop/instruments/matisse.html) | ❌ | ❌ | |
+| [OpenCV](https://opencv.org/) | ✅ | ✅ | |
+| [Sharktopda](https://github.com/mbari-media-management/Sharktopoda) | ✅ | ✅ | |
 
 
 ## Training Sets
@@ -63,12 +63,11 @@ To contact fellow scientists working on image and video analysis, you can join o
 
 ## Video Annotation
 
-| Name | Free | Open Source |
-| -- | -- | --|
-| [ADELIE](https://www.flotteoceanographique.fr/La-Flotte/Logiciels-embarques/ADELIE) | ✅ | ❌ |
-| [Digital Fisher](https://www.oceannetworks.ca/learning/get-involved/citizen-science/digital-fishers) | ❌ | ❌ |
-| [MBARI Media Managment (M3/VARS)](https://mbari-media-management.github.io/) | ✅ | ✅ |
-| [Scalabel](https://www.scalabel.ai/) | ✅ | ✅ |
-| [SeaTube](http://dmas.uvic.ca/SeaTube) | ✅ | ❌ |
-| [Video Annotation and Reference System (VARS)](https://hohonuuli.github.io/vars/) | ✅ | ✅ |
-
+| Name | Free | Open Source | Notes |
+| -- | -- | --| -- |
+| [ADELIE](https://www.flotteoceanographique.fr/La-Flotte/Logiciels-embarques/ADELIE) | ✅ | ❌ | |
+| [Digital Fisher](https://www.oceannetworks.ca/learning/get-involved/citizen-science/digital-fishers) | ❌ | ❌ | |
+| [MBARI Media Managment (M3/VARS)](https://mbari-media-management.github.io/) | ✅ | ✅ | |
+| [Scalabel](https://www.scalabel.ai/) | ✅ | ✅ | |
+| [SeaTube](http://dmas.uvic.ca/SeaTube) | ✅ | ❌ | |
+| [Video Annotation and Reference System (VARS)](https://hohonuuli.github.io/vars/) | ✅ | ✅ | |
