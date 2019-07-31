@@ -36,7 +36,7 @@ To contact fellow scientists working on image and video analysis, you can join o
 | [labelme](https://github.com/wkentaro/labelme) | ✅ | ✅ | |
 | [OFOP](http://www.ofop-by-sams.eu/) | ✅ | ❌ | |
 | [RectLabel](https://rectlabel.com/) | ❌ | ❌ | |
-| [SeaGIS](https://www.seagis.com.au/) | ❌ | ❌ | |
+| [SeaGIS](https://www.seagis.com.au/) | ❌ | ❌ | Includes [EventMeasure](https://www.seagis.com.au/event.html) and [TransectMeasure](https://www.seagis.com.au/transect.html) |
 | [Sebastes](https://repository.library.noaa.gov/view/noaa/11999/noaa_11999_DS1.pdf?) | ✅ | ✅ | |
 | [Squidle+](http://squidle.org/) | ✅ | ✅ | [Source Code](https://bitbucket.org/ariell/marinedb) |
 | [Supervisely](https://supervise.ly/) | ❌ | ❌ | |
@@ -70,4 +70,5 @@ To contact fellow scientists working on image and video analysis, you can join o
 | [MBARI Media Managment (M3/VARS)](https://mbari-media-management.github.io/) | ✅ | ✅ | |
 | [Scalabel](https://www.scalabel.ai/) | ✅ | ✅ | |
 | [SeaTube](http://dmas.uvic.ca/SeaTube) | ✅ | ❌ | |
+| [Tator](https://github.com/cvisionai/Tator) | ✅ | ✅ | |
 | [Video Annotation and Reference System (VARS)](https://hohonuuli.github.io/vars/) | ✅ | ✅ | |
