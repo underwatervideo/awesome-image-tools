@@ -72,3 +72,4 @@ To contact fellow scientists working on image and video analysis, you can join o
 | [SeaTube](http://dmas.uvic.ca/SeaTube) | ✅ | ❌ | |
 | [Tator](https://github.com/cvisionai/Tator) | ✅ | ✅ | |
 | [Video Annotation and Reference System (VARS)](https://hohonuuli.github.io/vars/) | ✅ | ✅ | |
+| [video-annotation-tool](https://github.com/video-annotation-project/video-annotation-tool) | ✅ | ✅ | |
