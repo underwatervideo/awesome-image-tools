@@ -27,14 +27,14 @@ To contact fellow scientists working on image and video analysis, you can join o
 | Name | Free | Open Source | Notes |
 | -- | -- | -- | -- |
 | [BenthoBox](https://benthobox.com) | ✅ | ❌ | |
-| [Biigle](https://www.biigle.de/) | ✅ | ❌ | |
+| [Biigle](https://www.biigle.de/) | ✅ | ✅ | <https://github.com/biigle/> |
 | [Coral Point Count with Excel extensions](https://cnso.nova.edu/cpce/index.html) | ✅ | ❌ | |
 | [CoralNet](https://coralnet.ucsd.edu/) | ✅ | ❌ | |
 | [cvat](https://github.com/opencv/cvat) | ✅ | ✅ | |
 | [Deep Sea Spy](https://www.deepseaspy.com) | ❌ | ❌ | |
 | [Labelbox](https://labelbox.com/) | ❌ | ❌ | |
 | [labelme](https://github.com/wkentaro/labelme) | ✅ | ✅ | |
-| [OFOP](http://www.ofop-by-sams.eu/) | ✅ | ❌ | |
+| [OFOP](http://www.ofop-by-sams.eu/) | ❌ | ❌ | |
 | [RectLabel](https://rectlabel.com/) | ❌ | ❌ | |
 | [SeaGIS](https://www.seagis.com.au/) | ❌ | ❌ | Includes [EventMeasure](https://www.seagis.com.au/event.html) and [TransectMeasure](https://www.seagis.com.au/transect.html) |
 | [Sebastes](https://repository.library.noaa.gov/view/noaa/11999/noaa_11999_DS1.pdf?) | ✅ | ✅ | |
