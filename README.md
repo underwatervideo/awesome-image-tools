@@ -27,7 +27,7 @@ To contact fellow scientists working on image and video analysis, you can join o
 | Name | Free | Open Source | Notes |
 | -- | -- | -- | -- |
 | [BenthoBox](https://benthobox.com) | ✅ | ❌ | |
-| [Biigle](https://www.biigle.de/) | ✅ | ✅ | <https://github.com/biigle/> |
+| [BIIGLE](https://www.biigle.de/) | ✅ | ✅ | <https://github.com/biigle/> |
 | [Coral Point Count with Excel extensions](https://cnso.nova.edu/cpce/index.html) | ✅ | ❌ | |
 | [CoralNet](https://coralnet.ucsd.edu/) | ✅ | ❌ | |
 | [cvat](https://github.com/opencv/cvat) | ✅ | ✅ | |
@@ -66,6 +66,7 @@ To contact fellow scientists working on image and video analysis, you can join o
 | Name | Free | Open Source | Notes |
 | -- | -- | --| -- |
 | [ADELIE](https://www.flotteoceanographique.fr/La-Flotte/Logiciels-embarques/ADELIE) | ✅ | ❌ | |
+| [BIIGLE](https://www.biigle.de/) | ✅ | ✅ | <https://github.com/biigle/> |
 | [Digital Fisher](https://www.oceannetworks.ca/learning/get-involved/citizen-science/digital-fishers) | ❌ | ❌ | |
 | [MBARI Media Managment (M3/VARS)](https://mbari-media-management.github.io/) | ✅ | ✅ | |
 | [Scalabel](https://www.scalabel.ai/) | ✅ | ✅ | |
