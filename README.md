@@ -40,6 +40,7 @@ To contact fellow scientists working on image and video analysis, you can join o
 | [Sebastes](https://repository.library.noaa.gov/view/noaa/11999/noaa_11999_DS1.pdf?) | ✅ | ✅ | |
 | [Squidle+](http://squidle.org/) | ✅ | ✅ | [Source Code](https://bitbucket.org/ariell/marinedb) |
 | [Supervisely](https://supervise.ly/) | ❌ | ❌ | |
+| [Tator](https://www.tator.io/) | ✅ | ✅ | See: [Tutorials](https://www.tator.io/tutorials) and [Source Code](https://github.com/cvisionai/Tator) |
 | [Viame](http://www.viametoolkit.org/) | ✅ | ✅ | |
 | [VoTT](https://github.com/Microsoft/VoTT) | ✅ | ✅ |
 
@@ -71,6 +72,6 @@ To contact fellow scientists working on image and video analysis, you can join o
 | [MBARI Media Managment (M3/VARS)](https://mbari-media-management.github.io/) | ✅ | ✅ | |
 | [Scalabel](https://www.scalabel.ai/) | ✅ | ✅ | |
 | [SeaTube](http://dmas.uvic.ca/SeaTube) | ✅ | ❌ | |
-| [Tator](https://github.com/cvisionai/Tator) | ✅ | ✅ | |
+| [Tator](https://www.tator.io/) | ✅ | ✅ | See: [Tutorials](https://www.tator.io/tutorials) and  [Source Code](https://github.com/cvisionai/Tator) |
 | [Video Annotation and Reference System (VARS)](https://hohonuuli.github.io/vars/) | ✅ | ✅ | |
 | [video-annotation-tool](https://github.com/video-annotation-project/video-annotation-tool) | ✅ | ✅ | |
