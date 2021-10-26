@@ -43,6 +43,7 @@ To contact fellow scientists working on image and video analysis, you can join o
 | [Tator](https://www.tator.io/) | ✅ | ✅ | See: [Tutorials](https://www.tator.io/tutorials) and [Source Code](https://github.com/cvisionai/Tator) |
 | [Viame](http://www.viametoolkit.org/) | ✅ | ✅ | |
 | [VoTT](https://github.com/Microsoft/VoTT) | ✅ | ✅ |
+| [FishID](https://globalwetlandsproject.org/tools-2/fishid/) | ✅ | 🔜 | Send an email to fishidglow@outlook.com to access and collaborate |
 
 
 ## Miscellaneous
@@ -55,12 +56,16 @@ To contact fellow scientists working on image and video analysis, you can join o
 | [Matisse](https://www.eso.org/sci/facilities/develop/instruments/matisse.html) | ❌ | ❌ | |
 | [OpenCV](https://opencv.org/) | ✅ | ✅ | |
 | [Sharktopda](https://github.com/mbari-media-management/Sharktopoda) | ✅ | ✅ | Video Player with Remote Control API |
+| [FishIDTrackers](https://github.com/slopezmarcano/automated-fish-tracking) | ✅ | ✅ | Fish detection and tracking pipelines with demo datasets |
 
 
 ## Training Sets
 
 - [FathomNet](http://fathomnet.org) 
 - [Fishnet.AI](https://www.fishnet.ai/])
+- [FishIDLowViz](https://github.com/slopezmarcano/dataset-fish-detection-low-visibility)
+- [FishIDLuderick](https://github.com/globalwetlands/luderick-seagrass)
+- [DeepFish](https://alzayats.github.io/DeepFish/)
 
 
 ## Video Annotation
@@ -76,3 +81,4 @@ To contact fellow scientists working on image and video analysis, you can join o
 | [Tator](https://www.tator.io/) | ✅ | ✅ | See: [Tutorials](https://www.tator.io/tutorials) and  [Source Code](https://github.com/cvisionai/Tator) |
 | [Video Annotation and Reference System (VARS)](https://hohonuuli.github.io/vars/) | ✅ | ✅ | |
 | [video-annotation-tool](https://github.com/video-annotation-project/video-annotation-tool) | ✅ | ✅ | |
+| [FishID](https://globalwetlandsproject.org/tools-2/fishid/) | ✅ | 🔜 | Send an email to fishidglow@outlook.com to access and collaborate |
