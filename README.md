@@ -50,15 +50,16 @@ To contact fellow scientists working on image and video analysis, you can join o
 | Name | Free | Open Source | Notes |
 | -- | -- | -- | -- |
 | [3D Metrics](https://3d-metrics.com/) | ❌ | ❌ | |
+| [Cthulhu](https://github.com/mbari-media-management/cthulhu) | ❌ | ❌ | Video Player with Remote Control API that supports localizations |
 | [iNaturalist](https://www.inaturalist.org/) | ✅ | ❌ | |
 | [Matisse](https://www.eso.org/sci/facilities/develop/instruments/matisse.html) | ❌ | ❌ | |
 | [OpenCV](https://opencv.org/) | ✅ | ✅ | |
-| [Sharktopda](https://github.com/mbari-media-management/Sharktopoda) | ✅ | ✅ | |
+| [Sharktopda](https://github.com/mbari-media-management/Sharktopoda) | ✅ | ✅ | Video Player with Remote Control API |
 
 
 ## Training Sets
 
-- FathomNet (coming soon) 
+- [FathomNet](http://fathomnet.org) 
 - [Fishnet.AI](https://www.fishnet.ai/])
 
 
