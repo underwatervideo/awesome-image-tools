@@ -41,7 +41,7 @@ To contact fellow scientists working on image and video analysis, you can join o
 | [Squidle+](http://squidle.org/) | ✅ | ✅ | [Source Code](https://bitbucket.org/ariell/marinedb) |
 | [Supervisely](https://supervise.ly/) | ❌ | ❌ | |
 | [Tator](https://www.tator.io/) | ✅ | ✅ | See: [Tutorials](https://www.tator.io/tutorials) and [Source Code](https://github.com/cvisionai/Tator) |
-| [Viame](http://www.viametoolkit.org/) | ✅ | ✅ | |
+| [VIAME](http://www.viametoolkit.org/) | ✅ | ✅ | [All Docs](https://viame.readthedocs.io/en/latest/section_links/documentation_overview.html) |
 | [VoTT](https://github.com/Microsoft/VoTT) | ✅ | ✅ |
 | [FishID](https://globalwetlandsproject.org/tools-2/fishid/) | ✅ | 🔜 | Send an email to fishidglow@outlook.com to access and collaborate |
 
@@ -66,6 +66,7 @@ To contact fellow scientists working on image and video analysis, you can join o
 - [FishIDLowViz](https://github.com/slopezmarcano/dataset-fish-detection-low-visibility)
 - [FishIDLuderick](https://github.com/globalwetlands/luderick-seagrass)
 - [DeepFish](https://alzayats.github.io/DeepFish/)
+- [VIAME](https://viame.kitware.com)
 
 
 ## Video Annotation
@@ -81,4 +82,5 @@ To contact fellow scientists working on image and video analysis, you can join o
 | [Tator](https://www.tator.io/) | ✅ | ✅ | See: [Tutorials](https://www.tator.io/tutorials) and  [Source Code](https://github.com/cvisionai/Tator) |
 | [Video Annotation and Reference System (VARS)](https://hohonuuli.github.io/vars/) | ✅ | ✅ | |
 | [video-annotation-tool](https://github.com/video-annotation-project/video-annotation-tool) | ✅ | ✅ | |
+| [VIAME](http://www.viametoolkit.org/) | ✅ | ✅ | [All Docs](https://viame.readthedocs.io/en/latest/section_links/documentation_overview.html) |
 | [FishID](https://globalwetlandsproject.org/tools-2/fishid/) | ✅ | 🔜 | Send an email to fishidglow@outlook.com to access and collaborate |
