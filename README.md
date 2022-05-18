@@ -76,7 +76,7 @@ To contact fellow scientists working on image and video analysis, you can join o
 | [ADELIE](https://www.flotteoceanographique.fr/La-Flotte/Logiciels-embarques/ADELIE) | ✅ | ❌ | |
 | [BIIGLE](https://www.biigle.de/) | ✅ | ✅ | <https://github.com/biigle/> |
 | [Digital Fisher](https://www.oceannetworks.ca/learning/get-involved/citizen-science/digital-fishers) | ❌ | ❌ | |
-| [MBARI Media Managment (M3/VARS)](https://mbari-media-management.github.io/) | ✅ | ✅ | |
+| [MBARI Media Managment (M3/VARS)](https://mbari-media-management.github.io/) | ✅ | ✅ | [Quickstart](https://github.com/mbari-media-management/m3-quickstart) |
 | [Scalabel](https://www.scalabel.ai/) | ✅ | ✅ | |
 | [SeaTube](http://dmas.uvic.ca/SeaTube) | ✅ | ❌ | |
 | [Tator](https://www.tator.io/) | ✅ | ✅ | See: [Tutorials](https://www.tator.io/tutorials) and  [Source Code](https://github.com/cvisionai/Tator) |
