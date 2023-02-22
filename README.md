@@ -55,7 +55,8 @@ To contact fellow scientists working on image and video analysis, you can join o
 | [iNaturalist](https://www.inaturalist.org/) | ✅ | ❌ | |
 | [Matisse](https://www.eso.org/sci/facilities/develop/instruments/matisse.html) | ❌ | ❌ | |
 | [OpenCV](https://opencv.org/) | ✅ | ✅ | |
-| [Sharktopoda](https://github.com/mbari-media-management/Sharktopoda) | ✅ | ✅ | Video Player with Remote Control API |
+| [Sharktopoda](https://github.com/mbari-org/Sharktopoda) | ✅ | ✅ | Video Player with Remote Control API. Supports creating and editing bounding boxes on video |
+| [Sharktopoda 1](https://github.com/mbari-media-management/Sharktopoda) | ✅ | ✅ | Video Player with Remote Control API |
 | [FishIDTrackers](https://github.com/slopezmarcano/automated-fish-tracking) | ✅ | ✅ | Fish detection and tracking pipelines with demo datasets |
 
 
